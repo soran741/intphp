@@ -14,5 +14,9 @@ and open the template in the editor.
         // put your code here
         echo "hola mundo";
         ?>
+        <b>valor</b>
+        <?php
+        echo "nueva linea de texto";
+        ?>
     </body>
 </html>
